@@ -1,7 +1,7 @@
 {
   "name": "skelestyle-typography",
-  "description": "bas typography styles",
-  "version": "0.0.3",
+  "description": "base typography styles",
+  "version": "0.0.4",
   "style": "index.css",
   "repository": {
     "url": "git://github.com/sethvincent/skelestyle-typography.git"
